@@ -3,7 +3,7 @@
 
 사용 기술 :
 
-Spring boot, MySQL, React.js
+Spring boot, React.js, MySQL, AWS(EC2, RDS)
 
 # 코딩 컨벤션
 - Lombok을 사용한다.
@@ -55,4 +55,5 @@ git checkout -b feature/4/kakaoShare origin/develop
 
 
 # 개발 기간
-1차 배포: 1월 9일 ~ 2월 7일(목표)
+- 개발: 1월 9일 ~ 3월 5일
+- 배포: 3월 7일 ~ 진행중
